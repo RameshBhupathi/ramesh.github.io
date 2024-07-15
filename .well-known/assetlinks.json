@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rams.credsmanagetest",
+    "sha256_cert_fingerprints":
+    ["1C:AA:A7:55:31:3C:37:E5:30:A3:51:21:BF:92:60:F8:6A:CF:32:D5:1B:79:AF:F1:89:85:3D:D1:D0:E7:A5:F6"]
+  }
+}]
